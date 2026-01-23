@@ -47,14 +47,16 @@ A comprehensive desktop image processing application built with Python, featurin
 ```bash
 pip install opencv-python numpy pillow matplotlib ttkbootstrap
 python main.py
+```
 
 ## Licence
 
 This project is licensed under the MIT License.
 
 Note: This project was developed for educational purposes
-```
+
 
 ## 👨‍💻 Author
 
 **Özgür Can Güngör** - Yaşar University
+```
