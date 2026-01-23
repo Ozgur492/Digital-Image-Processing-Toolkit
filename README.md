@@ -5,7 +5,7 @@ A comprehensive desktop image processing application built with Python, featurin
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![OpenCV](https://img.shields.io/badge/OpenCV-4.x-green.svg)
 
-## ✨ Features
+## Features
 
 ### Basic Operations
 - Grayscale conversion
@@ -34,7 +34,7 @@ A comprehensive desktop image processing application built with Python, featurin
 - Otsu's thresholding
 - Erosion / Dilation / Opening / Closing
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - Python 3.8+
 - OpenCV
@@ -43,10 +43,16 @@ A comprehensive desktop image processing application built with Python, featurin
 - Matplotlib
 - Tkinter + ttkbootstrap
 
-## 🚀 Installation
+## Installation
 ```bash
 pip install opencv-python numpy pillow matplotlib ttkbootstrap
 python main.py
+
+## Licence
+
+This project is licensed under the MIT License.
+
+Note: This project was developed for educational purposes
 ```
 
 ## 👨‍💻 Author
